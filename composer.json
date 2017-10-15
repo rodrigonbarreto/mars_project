@@ -15,5 +15,8 @@
       "RNB\\":"vendor/RNB/",
       "App\\":"App/"
     }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "5.7"
   }
 }
