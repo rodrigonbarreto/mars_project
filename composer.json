@@ -1,0 +1,19 @@
+{
+  "name": "rnb/command line",
+  "require": {
+    "php": ">=7",
+    "symfony/console": "^3.3"
+  },
+  "authors": [
+    {
+      "name":"Rodrigo Nogueira Barreto",
+      "email":"rodrigonbarreto@gmail.com"
+    }
+  ],
+  "autoload":{
+    "psr-4":{
+      "RNB\\":"vendor/RNB/",
+      "App\\":"App/"
+    }
+  }
+}
